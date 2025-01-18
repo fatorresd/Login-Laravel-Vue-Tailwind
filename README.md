@@ -134,18 +134,6 @@ Ejecutar igualmente el backend:
 php artisan serve
 ```
 
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue estos pasos:
-
-1. Forkea el repositorio.
-2. Crea una nueva rama para tu característica o corrección (`git checkout -b feature/nueva-caracteristica`).
-3. Haz tus cambios y realiza un commit (`git commit -m 'Añadir nueva característica'`).
-4. Empuja tus cambios a tu repositorio (`git push origin feature/nueva-caracteristica`).
-5. Abre un pull request en GitHub.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-```
